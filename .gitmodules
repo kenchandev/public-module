@@ -1,4 +1,4 @@
 
 [submodule "static/fonts"]
 	path = static/fonts
-	url = https://github.com/kenchandev/private-submodule.git
+	url = git@github.com:kenchandev/private-submodule.git
